@@ -1,4 +1,4 @@
-# Client-Server-Using-TCP-in-Java
+# Reading Url Client-Server-Using-TCP-in-Java
 A java project for client-server on same system.
 
 This project works on the concept of Client-Server.
